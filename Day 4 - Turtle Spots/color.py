@@ -1,0 +1,1 @@
+color=["red","blue","yellow","pink","purple","green","#FD49A0","#A16AE8","#B4FEE7","#603F8B","CornflowerBlue","DarkOrchid","IndianRed","DeepSkyBlue","LightSeaGreen","wheat","SlateGray","SeaGreen"]
